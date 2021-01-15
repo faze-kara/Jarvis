@@ -1,0 +1,8 @@
+{
+  "name": "MIDI BOT",
+  "version": "1.0.",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "KARA",
+  "dependencies": {}
+}
