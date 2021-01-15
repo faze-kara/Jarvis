@@ -1,7 +1,7 @@
 {
-  "name": "MIDI BOT",
+  "name": "kara's ai jarvis",
   "version": "1.0.",
-  "description": "My own Discord bot",
+  "description": "Hi I'm jarvis ping mw if u need me",
   "main": "bot.js",
   "author": "KARA",
   "dependencies": {}
